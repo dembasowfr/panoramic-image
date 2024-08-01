@@ -45,10 +45,10 @@ The results of the project can be found in the `data` directory. The results inc
 #### Input Images:
 
 
-|      | Input Images           |
-|------|------------------|
-| **Input Image 1** | ![Input Image 1](./data/input/1.jpg) |
-| **Input Image 2** | ![Input Image 2](./data/input/2.jpg) |
+| **Input Image 1**                        | **Input Image 2**                        |
+|------------------------------------------|------------------------------------------|
+| ![Input Image 1](./data/input/1.jpg)     | ![Input Image 2](./data/input/2.jpg)     |
+
 
 
 #### Panoramic Image:
