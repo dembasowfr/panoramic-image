@@ -43,8 +43,13 @@ python ./main.py
 The results of the project can be found in the `data` directory. The results include the stitched image and the intermediate results of the project.
 
 #### Input Images:
-![Input Image 1](./data/input/1.jpg)
-![Input Image 2](./data/input/2.jpg)
+
+
+|      | Input Images           |
+|------|------------------|
+| **Input Image 1** | ![Input Image 1](./data/input/1.jpg) |
+| **Input Image 2** | ![Input Image 2](./data/input/2.jpg) |
+
 
 #### Panoramic Image:
 ![Result ](./data/output/panorama.jpg)
