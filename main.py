@@ -11,8 +11,8 @@ if __name__ == "__main__":
     # Load the images
     # Use absolute paths for debugging purposes
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), './data'))
-    image1_path = os.path.join(root_dir, 'input', 'soru_2_gorsel1.png')
-    image2_path = os.path.join(root_dir, 'input', 'soru_2_gorsel2.png')
+    image1_path = os.path.join(root_dir, 'input', '1.jpg')
+    image2_path = os.path.join(root_dir, 'input', '2.jpg')
     output_image_path = os.path.join(root_dir, 'output', 'panorama.jpg')
 
     # Print the full paths for debugging
@@ -43,7 +43,5 @@ if __name__ == "__main__":
     # Displaying the stitched images.
     plt.imshow(panorama)
     plt.show()
-    
 
-    
-    
+
